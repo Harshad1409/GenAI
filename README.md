@@ -1,2 +1,3 @@
 # GenAI
-This project for learning Gen AI related stuff. 
+This project for learning Gen AI related stuff.
+testing stuff
